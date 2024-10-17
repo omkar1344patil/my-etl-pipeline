@@ -1,6 +1,6 @@
-# ETL Data Pipeline with Airflow and Google Cloud
+# ELT Data Pipeline with Airflow and Google Cloud
 
-This project is all about setting up an end-to-end ETL (Extract, Transform, Load) pipeline using Airflow and Google Cloud services. I wrote a detailed article about it on Medium, so if you're looking for the full explanation of how things work, you can check that out [here](https://medium.com/@omkar1344patil/building-an-end-to-end-etl-data-pipeline-with-airflow-and-google-cloud-ff9179edcf16).
+This project is all about setting up an end-to-end ELT (Extract, Load, Transform) pipeline using Airflow and Google Cloud services. I wrote a detailed article about it on Medium, so if you're looking for the full explanation of how things work, you can check that out [here](https://medium.com/@omkar1344patil/building-an-end-to-end-etl-data-pipeline-with-airflow-and-google-cloud-ff9179edcf16).
 
 ### What's Happening Here?
 - Data Ingestion: We pull data from a source and store it in Google Cloud Storage.
