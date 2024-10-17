@@ -15,6 +15,12 @@ This project is all about setting up an end-to-end ETL (Extract, Transform, Load
 - BigQuery: Where the cleaned-up data ends up
 - Python & SQL: For scripting and transforming data
 
+### Prerequisites
+To run this project, you'll need:
+
+- Google Cloud Platform account with access to Cloud Storage and BigQuery
+- Apache Airflow set up locally or on a server
+- Python 3.7+ environment
 
 ### How to Run It?
 Clone this repository:
@@ -28,7 +34,7 @@ Trigger the DAG manually in the Airflow UI or let it run based on the schedule.
 
 ### More Info
 If you want more details on how this all comes together, including setup steps and code breakdowns, check out my full article on Medium: 
-Read the article [here]([https://medium.com/@omkar1344patil/building-an-end-to-end-etl-data-pipeline-with-airflow-and-google-cloud-ff9179edcf16]).
+Read the article [here](https://medium.com/@omkar1344patil/building-an-end-to-end-etl-data-pipeline-with-airflow-and-google-cloud-ff9179edcf16).
 
 ### License
 Feel free to use this project however you want—licensed under MIT.
