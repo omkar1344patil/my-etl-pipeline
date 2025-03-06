@@ -25,7 +25,7 @@ To run this project, you'll need:
 ### How to Run It?
 Clone this repository:
 
-``` git clone https://github.com/yourusername/your-repo-name.git```
+``` git clone https://github.com/omkar1344patil/my-etl-pipeline.git```
 
 ### Set up your environment:
 Make sure you have Airflow running locally, and your Google Cloud credentials set up to access Cloud Storage and BigQuery.
